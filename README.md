@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Manner_of_articulation
 https://en.wikipedia.org/wiki/Place_of_articulation
 
 this project is written in Python and should be easily runnable in VSC (where it was written) and I expect Jupyter Notebook too. the only modules imported are the dataclass module. all other imports at the top of a file were written by me and are contained within this assignment.
-I would suggest running the main.py file and then looking through the code. placeart.py has the most detailed documentation/explanation because I added commentary to it first. consonant.py, ipaold.py, and ipavowel.py are uncalled and essentially defunct, but I left them in as documentation of my process, so to speak.
+I would suggest running the main.py file and then looking through the code contained in the phonetics folder. placeart.py has the most detailed documentation/explanation because I added commentary to it first. consonant.py, ipaold.py, and ipavowel.py are uncalled and essentially defunct, but I left them in as documentation of my process, so to speak.
 
 the "highest level" files are manner.py, placeart.py, and vowel.py. 
 
